@@ -1,0 +1,13 @@
+img {
+    width: 200px;
+}
+.center{
+    display: flex;
+    flex-direction
+    :column;
+    align-content:center;
+    background-color: blue;
+}
+body{
+    background: blue;
+}    
